@@ -1,1 +1,4 @@
-# php-football-match-prediction
+# Тестовый алгоритм: *php-football-match-prediction*
+
+## Как угадать точный счет в футбольном матче
+### Читайте комментарии в коде
